@@ -2,16 +2,17 @@ public class UC1 {
 
     public static void main(String[] args) {
 
-        // Application Name
+        // Display the name of the application
         System.out.println("PalindromeChecker Application");
 
-        // Application Version
+        // Display the current version of the application
         System.out.println("Version: 1.0");
 
-        // Welcome Message
+        // Display a welcome message to the user
         System.out.println("Welcome to the Palindrome Checker App!");
 
-        // Application Flow Message
+        // Indicate that the program will proceed to the next use case
         System.out.println("Program is ready to continue to the next use case...");
+
     }
 }
