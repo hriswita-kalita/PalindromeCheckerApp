@@ -8,7 +8,7 @@ public class UC1 {
         // Display the current version of the application
         System.out.println("Version: 1.0");
 
-        // Display a welcome message to the user
+        // Display a welcome message
         System.out.println("Welcome to the Palindrome Checker App!");
 
         // Indicate that the program will proceed to the next use case
